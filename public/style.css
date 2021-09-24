@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+}
+
+h1 {
+  font-family: cursive;
+  color: rgb(216, 37, 223);
+  text-transform: uppercase;
+}
+
+.complement {
+  font-size: 1.5rem;
+  font-family: cursive;
+}
+
+.request-complement {
+  background-color: peachpuff;
+}
